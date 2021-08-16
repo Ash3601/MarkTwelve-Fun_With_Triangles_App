@@ -12,3 +12,5 @@ A ReactJS App to do the following:
 Note: Basically it's a questionaire application that expects correct answer from the users.
 
 > This app is part of assigment for NeoG Camp Admission.
+
+[Try it here] (https://angry-fermat-c87b04.netlify.app/)
